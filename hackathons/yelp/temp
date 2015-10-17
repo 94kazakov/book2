@@ -1,0 +1,10 @@
+'<g transform="translate(0 ${d.y})"> \
+                    <text y="20">${d.label}</text> \
+                    <rect x = "${d.x}"   \
+                          y = "${d.y}"  \
+                         width="${d.width}" \
+                         height="20"    \
+                         style="fill:${d.color};    \
+                                stroke-width:3; \
+                                stroke:rgb(0,0,0)" />   \
+                    </g>'
